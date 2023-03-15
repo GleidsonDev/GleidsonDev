@@ -1,7 +1,7 @@
 ## Olá! Sou o Gleidson
 
 - 🔭 Estudante de Desenvolvimento Web pela Trybe
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript / React JS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
